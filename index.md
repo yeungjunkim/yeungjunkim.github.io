@@ -3,6 +3,8 @@
 You can use the [editor on GitHub](https://github.com/yeungjunkim/yeungjunkim.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 #Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 2020/08/12일 블로그 첫날 
 - 나를 향한 다짐
   : 매일 매일 한줄이라도 블로그를 적겠습니다. 
