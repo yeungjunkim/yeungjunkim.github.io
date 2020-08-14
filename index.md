@@ -8,6 +8,17 @@ You can use the [editor on GitHub](https://github.com/yeungjunkim/yeungjunkim.gi
 2020/08/12일 블로그 첫날 
 - 나를 향한 다짐
   : 매일 매일 한줄이라도 블로그를 적겠습니다. 
+--------------------------------------  
+2020/08/13일 블로그 첫날
+- 어제 야근을 해서 제 시간에 글을 못적었습니다. 
+IT : sudo 명령어로 python을 실행시켰을 떄 발생하는 문제점 해결 
+     --> ex) sudo -E nohup /opt/conda/bin/python %s/%s > %s 2>&1&
+     root환경에서 sudo로 실행을 했을때 root에서 적용된 환경변수들이 무시되고 sudoers PATH들만 먹어서 
+     기존의 라이브러리가 참고가 되지 않아서 오류가 발생함. 
+     
+     참고)/usr/bin/aaa   <- 이런식으로 폴더를 주면 python에서 라이브러리로 참조가능함. import aaa 가능 
+
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
