@@ -20,7 +20,10 @@ IT : sudo 명령어로 python을 실행시켰을 떄 발생하는 문제점 해�
      기존의 라이브러리가 참고가 되지 않아서 오류가 발생함. 
      
      참고)/usr/bin/aaa   <- 이런식으로 폴더를 주면 python에서 라이브러리로 참조가능함. import aaa 가능 
-
+     
+| Header One | Header Two | Header Three | Header Four |
+| ---------- | :--------- | :----------: | ----------: |
+| Default    | Left       | Center       | Right       |
   
 ### Markdown
 
