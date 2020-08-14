@@ -2,12 +2,12 @@ theme: jekyll-theme-architect
 title: Welcome to yeungjumkim's blog
 Description: Feel free to bookmark this to keep an eye on my project updates
 # Site
-name: 'yeungjunkim's IT and English Life'
-description: 'This site includes IT information and English Contents'
-meta_description: '블로그 메타테그'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: '/저장소이름/'
-google_analytics: ''
-disqus: '' #댓글 api 이용시 disqus-id 입력
-mailchimp-list: ''
+# name: 'yeungjunkim's IT and English Life'
+# description: 'This site includes IT information and English Contents'
+# meta_description: '블로그 메타테그'
+# logo: 'assets/images/logo.png'
+# favicon: 'assets/images/logo.png'
+# baseurl: '/저장소이름/'
+# google_analytics: ''
+# disqus: '' #댓글 api 이용시 disqus-id 입력
+# mailchimp-list: ''
