@@ -32,6 +32,14 @@ IT : 텐서플로우의 가중치 모델을 읽을 때 open함수로 읽는데 �
 --금융 서비스 같이 복집한 로직이 반영되어있는 계정계는 적합하지 않음.
 --부하가 많이 몰리는 채널(PC, 모바일) 부분에 적합하다는 생각이 듬.
 
+===2021/01/06
+Kubeflow/katib
+--기본 알고리즘을 이용하는 샘플은 가능하나 템플릿을 이용한 모델 돌리는
+  부분은 내용을 좀 더 확인해봐야함
+--katib외의 파이프라인 부분은 좀 더 봐야함 
+
+k8s에서 airflow를 사용가능함 
+k8s에서 spark를 사용가능하며 airflow도 같이 돌려야함 
 
 https://docs.python.org/3/library/functions.html?highlight=open#open
 
