@@ -41,6 +41,16 @@ Kubeflow/katib
 k8s에서 airflow를 사용가능함 
 k8s에서 spark를 사용가능하며 airflow도 같이 돌려야함 
 
+==2021/01/07
+Apache Airflow의 장점
+Apache Airflow는 Python 기반으로 만들어졌기 때문에, 데이터 분석을 하는 분들도 쉽게 코드를 작성할 수 있음
+Airflow 콘솔이 따로 존재해 Task 관리를 서버에서 들어가 관리하지 않아도 되고, 각 작업별 시간이 나오기 때문에 bottleneck을 찾을 때에도 유용함
+또한 구글 클라우드 플랫폼(BigQuery, Dataflow)을 쉽게 사용할 수 있도록 제공되기 때문에 GCP를 사용하시면 반드시 사용할 것을 추천함
+Google Cloud Platform에는 Managed Airflow인 Google Cloud Composer가 있음
+직접 환경을 구축할 여건이 되지 않는다면 이런 서비스를 사용하는 것을 추천 :)
+https://zzsza.github.io/data/2018/01/04/airflow-1/
+
+
 https://docs.python.org/3/library/functions.html?highlight=open#open
 
 >>> import os
