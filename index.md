@@ -51,6 +51,13 @@ Google Cloud Platform에는 Managed Airflow인 Google Cloud Composer가 있음
 https://zzsza.github.io/data/2018/01/04/airflow-1/
 
 
+==2021/01/12
+kubeflow를 이용한 katib(카티브) 테스티시 HP(Hyper Parameter Tuning)과 NAS(Neural Architecture Search) 두개를 
+테스트할 수 있습니다. 그러나 후자의 경우 자원이 많이 필요로 하므로 주로 전자로 테스트를 할 수 있습니다. 
+전자의 경우 mxnet-cpu, tensorflow-cpu, tensorflow-gpu등의 도커 이미지를 말아서 네트워크 내용을 이 이미지 안에 
+넣어서 돌려야하므로 난이도가 있습니다. 사실 쿠버플로우에 대한 자세한 설명도 없는 실정입니다. 
+
+
 https://docs.python.org/3/library/functions.html?highlight=open#open
 
 >>> import os
