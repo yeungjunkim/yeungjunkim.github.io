@@ -63,6 +63,9 @@ kubeflow 의 자동화를 위해서는 실제
 나머지 실제 하이퍼파라미터튜닝을 할 필드들을 정해야하는데 
 해당 부분에 대해서는 너무 다양함 
 
+==2021/01/14
+추가내용 없음. 
+
 https://docs.python.org/3/library/functions.html?highlight=open#open
 
 >>> import os
