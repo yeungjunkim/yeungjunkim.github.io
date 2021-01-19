@@ -66,6 +66,10 @@ kubeflow 의 자동화를 위해서는 실제
 ==2021/01/14
 추가내용 없음. 
 
+==2021/01/19
+클릭ai.ai ui가 아주 수려하며 내용은 좋으나 해당 내용에 대해서
+실제 돌아가는 내용은 없음. 
+
 https://docs.python.org/3/library/functions.html?highlight=open#open
 
 >>> import os
